@@ -13,20 +13,12 @@
     <link href="/template/css/animate.css" rel="stylesheet">
     <link href="/template/css/main.css" rel="stylesheet">
     <link href="/template/css/responsive.css" rel="stylesheet">
-    <!--[if lt IE 9]>
     <script src="/template/js/html5shiv.js"></script>
-    <script src="/template/js/respond.min.js"></script>
-    <![endif]-->
-    <link rel="shortcut icon" href="/template/images/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/template/images/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/template/images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/template/images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="/template/images/ico/apple-touch-icon-57-precomposed.png">
-</head><!--/head-->
+</head>
 
 <body>
-<header id="header"><!--header-->
-    <div class="header_top"><!--header_top-->
+<header id="header">
+    <div class="header_top">
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
@@ -52,9 +44,9 @@
                 </div>
             </div>
         </div>
-    </div><!--/header_top-->
+    </div>
 
-    <div class="header-middle"><!--header-middle-->
+    <div class="header-middle">
         <div class="container">
             <div class="row">
                 <div class="col-sm-4">
@@ -79,9 +71,9 @@
                 </div>
             </div>
         </div>
-    </div><!--/header-middle-->
+    </div>
 
-    <div class="header-bottom"><!--header-bottom-->
+    <div class="header-bottom">
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
@@ -110,6 +102,6 @@
                 </div>
             </div>
         </div>
-    </div><!--/header-bottom-->
+    </div>
 
-</header><!--/header-->
+</header>

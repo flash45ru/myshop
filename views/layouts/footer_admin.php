@@ -1,7 +1,7 @@
 <div class="page-buffer"></div>
 </div>
 
-<footer id="footer" class="page-footer"><!--Footer-->
+<footer id="footer" class="page-footer">
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
@@ -10,9 +10,7 @@
             </div>
         </div>
     </div>
-</footer><!--/Footer-->
-
-
+</footer>
 
 <script src="/template/js/jquery.js"></script>
 <script src="/template/js/jquery.cycle2.min.js"></script>
